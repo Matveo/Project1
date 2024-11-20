@@ -1,0 +1,6 @@
+{
+    "background": "assets/default/background.jpg",
+    "snake": "assets/default/snake.png",
+    "snake_head": "assets/default/snake_head.png",
+    "apple": "assets/default/apple.png"
+}
